@@ -21,13 +21,13 @@ This reads your local journal file and determines if you are moving cargo to a c
 4. Once you click on that link click the blue button that says `Activate`  
 4a. If it doesn't already take you to the details of that, click the blue Manage button  
   ![image](https://github.com/user-attachments/assets/3f274be0-dfe0-4011-b888-61084064c241)
-5. Go to `Creditials` in the left hand menu
+5. Go to `Creditials` in the left hand menu  
    ![image](https://github.com/user-attachments/assets/f5c3b052-8955-4b4e-a8c6-0d03df8ac02c)
-6. Once in here click the `+ CREATE CREDENTIALS` at the top of the page
+6. Once in here click the `+ CREATE CREDENTIALS` at the top of the page  
   ![image](https://github.com/user-attachments/assets/60cec8d5-77ba-4605-b027-98e458b9d6e9)
-7. Click `Service Account`
+7. Click `Service Account`  
     ![image](https://github.com/user-attachments/assets/650bc677-cc5d-4aae-a455-b703c912cd84)
-8. Fill out this form. It doesn't matter too much what goes in these, but in case you want to make changes to them later, would be a good idea to name it something you'll know what it's for later.
+8. Fill out this form. It doesn't matter too much what goes in these, but in case you want to make changes to them later, would be a good idea to name it something you'll know what it's for later.  
     ![image](https://github.com/user-attachments/assets/fc5a1cc0-f052-4bf6-80a3-5d7ebb35f299)
 9. Once you click done it should take you back to the `Creditials` page and the bottom grid should have your new service account. Click it.
   ![image](https://github.com/user-attachments/assets/7dd06756-f2c8-401a-8663-271d808add01)
