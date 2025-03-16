@@ -10,6 +10,7 @@ This reads your local journal file and determines if you are moving cargo to a c
 ![image](https://github.com/user-attachments/assets/287f7e56-7f00-45ab-a3b2-259d9f535050)  
 *Note I highly reccommend setting your B Column as an equation of =total-CRow to automatically reduce the number in Column B*
 *Example Column B row 1 would be =22-C1*
+*The application is going to update Column C is why*
 
 # Setup
 1. You'll need to turn on your Google Sheet API [here](https:\\console.google.cloud)
