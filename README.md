@@ -18,9 +18,9 @@ This reads your local journal file and determines if you are moving cargo to a c
    ![image](https://github.com/user-attachments/assets/def5eb5d-a0e5-437c-a6f3-7711e5495d8c)
 3. Search for `Google Sheets API` Once the results show up you should be looking for this  
  ![image](https://github.com/user-attachments/assets/d8c37a3e-0635-4131-9b15-e4b136885190)
-4. Once you click on that link click the blue button that says `Activate`
+4. Once you click on that link click the blue button that says `Activate`  
 4a. If it doesn't already take you to the details of that, click the blue Manage button  
-![image](https://github.com/user-attachments/assets/3f274be0-dfe0-4011-b888-61084064c241)
+  ![image](https://github.com/user-attachments/assets/3f274be0-dfe0-4011-b888-61084064c241)
 5. Go to `Creditials` in the left hand menu
    ![image](https://github.com/user-attachments/assets/f5c3b052-8955-4b4e-a8c6-0d03df8ac02c)
 6. Once in here click the `+ CREATE CREDENTIALS` at the top of the page
