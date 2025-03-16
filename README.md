@@ -51,7 +51,8 @@ This reads your local journal file and determines if you are moving cargo to a c
 **IMPORTANT: Launch the game before launching the app. It's using your latest journal file and you get a new file everytime you launch the game. If you launch the game second, it won't get any new data and the app won't work**
 Once the app starts a console app will appear and ask for the SpreadsheetId. This is in the URL of your spreadsheet.  
 It's what is between the slashs after the `/d/` and before the `/edit?gid=`  
-![image](https://github.com/user-attachments/assets/3faf90f2-a946-4c17-be07-c2651300b7a1)
+![image](https://github.com/user-attachments/assets/476e9198-ee21-4670-a582-344d2f7b7529)
+
 This is how the app knows what spreadsheet to update
 Then it will ask for the Workbook Name. This is the tab at the bottom of the screen. In the example below it would be `Space Farm`  
 ![image](https://github.com/user-attachments/assets/19b6b56e-9853-462a-b5bd-88cdd474c3f9)
