@@ -48,14 +48,13 @@ This reads your local journal file and determines if you are moving cargo to a c
 17. This will download a .json file. You'll need to create a folder under `My Documents` on your computer called `GoogleSheetsApi` and move the downloaded file to that folder
 
 # Running the app
-**IMPORTANT: Launch the game before launching the app. It's using your latest journal file and you get a new file everytime you launch the game. If you launch the game second, it won't get any new data and the app won't work**
+**IMPORTANT: Launch the game before launching the app. It's using your latest journal file and you get a new file everytime you launch the game. If you launch the game second, it won't get any new data and the app won't work**  
 Once the app starts a console app will appear and ask for the SpreadsheetId. This is in the URL of your spreadsheet.  
 It's what is between the slashs after the `/d/` and before the `/edit?gid=`  
-![image](https://github.com/user-attachments/assets/476e9198-ee21-4670-a582-344d2f7b7529)
-
-This is how the app knows what spreadsheet to update
+![image](https://github.com/user-attachments/assets/476e9198-ee21-4670-a582-344d2f7b7529)  
+This is how the app knows what spreadsheet to update  
 Then it will ask for the Workbook Name. This is the tab at the bottom of the screen. In the example below it would be `Space Farm`  
-![image](https://github.com/user-attachments/assets/19b6b56e-9853-462a-b5bd-88cdd474c3f9)
+![image](https://github.com/user-attachments/assets/19b6b56e-9853-462a-b5bd-88cdd474c3f9)  
 Once you give it that, it's locked, cocked and ready to rock!
 
 
