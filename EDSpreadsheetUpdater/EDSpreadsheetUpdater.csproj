@@ -14,4 +14,8 @@
     <PackageReference Include="System.IO.FileSystem.Watcher" Version="4.3.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Properties\PublishProfiles\" />
+  </ItemGroup>
+
 </Project>
