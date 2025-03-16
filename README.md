@@ -39,11 +39,11 @@ This reads your local journal file and determines if you are moving cargo to a c
   ![image](https://github.com/user-attachments/assets/d04ed8f7-5de7-467b-b582-8ade453766a7)
 13. Back to the Service Account details page you shouldn't have closed yet, click the `Keys` at the top of the page
     ![image](https://github.com/user-attachments/assets/31114eff-0ab1-4a4c-a28c-37a71afb05dd)
-14. Click the `Add key` button 
+14. Click the `Add key` button  
   ![image](https://github.com/user-attachments/assets/22c0ecf7-08b4-44d6-9f68-d4c17ef28da9)
-15. Click `Create new key`
+15. Click `Create new key`  
     ![image](https://github.com/user-attachments/assets/7c4e7cd1-a61f-4a74-925a-bd034ff930bb)
-16. Make sure `JSON` is selected and click `Create`
+16. Make sure `JSON` is selected and click `Create`  
     ![image](https://github.com/user-attachments/assets/166681a5-cd23-4513-91b2-a209d0331ebf)
 17. This will download a .json file. You'll need to create a folder under `My Documents` on your computer called `GoogleSheetsApi` and move the downloaded file to that folder
 
