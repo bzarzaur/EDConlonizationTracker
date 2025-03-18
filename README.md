@@ -3,7 +3,7 @@ Tracking resources needed for Colonization
 
 # Beginning notes
 This reads your local journal file and determines if you are moving cargo to a carrier. It will then update a specific Google Sheets with the corresponding value  
-**You only need the App Folder**
+**You only need the EDUpdater\App Folder if all you want to do is use the app**
 
 # Prerequisites
 1. First and foremost, you need a fleet carrier  
