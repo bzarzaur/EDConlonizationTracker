@@ -9,8 +9,8 @@ This reads your local journal file and determines if you are moving cargo to a c
 1. First and foremost, you need a fleet carrier  
 2. Second you'll need to have your data in a Google Sheet and it needs to be in a specific format see screenshot
    ![image](https://github.com/user-attachments/assets/dd76f741-2ea1-4bca-a872-124c9aae1f61)  
-*Note I highly reccommend setting your B Column as an equation of =total-CRow to automatically reduce the number in Column B*
-*Example Column B row 1 would be =22-C1*  
+*Note I highly reccommend setting your B Column as an equation of =total-CRow to automatically reduce the number in Column B*  
+*Example Column B row 1 would be =113-C1*  
 *The application is going to update Column C is why also **if Column C isn't 0 to start with the app can't pick it up***  
 *If you want to add headers to the table, totally fine it can handle that*
 
